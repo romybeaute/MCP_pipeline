@@ -1,0 +1,20 @@
+I did the io, but I need to figure out the preprocessing. 
+Should I use autoreject just like in the low channel density examples Fede sent me. 
+
+
+Or should I use the same preprocessing as the high density, 
+but in this case there is no specific filter for the nihon data...
+
+
+Answer: The first option
+
+
+...
+When I read the file from my laptop and from the computer
+the channel names differ???
+
+And the channels are not the same... How???
+The .LOG file is not being read on Linux...
+
+
+Fixed, the same name needs to be for all files plus the .pnt needs to be in capslock .PNT in Linux ?? why

@@ -1,0 +1,11 @@
+README.md
+setup.py
+pycsd/__init__.py
+pycsd/csd.py
+pycsd.egg-info/PKG-INFO
+pycsd.egg-info/SOURCES.txt
+pycsd.egg-info/dependency_links.txt
+pycsd.egg-info/top_level.txt
+pycsd/templates/EGI_128.csd
+pycsd/templates/EGI_256.csd
+pycsd/templates/standard_10-5.csd

@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+next_permed/__init__.py
+next_permed/equipments.py
+next_permed.egg-info/PKG-INFO
+next_permed.egg-info/SOURCES.txt
+next_permed.egg-info/dependency_links.txt
+next_permed.egg-info/not-zip-safe
+next_permed.egg-info/top_level.txt
