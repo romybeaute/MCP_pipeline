@@ -1,5 +1,5 @@
 """
-Created by Romy Beauté
+Created by Romy Beautée
 romybeaute.univ@gmail.com
 
 Use it to automatically calculate all subjects (controls and patients) in ALL setups and ALL lateralisations that are entered in the following lists :
